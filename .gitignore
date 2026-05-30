@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# VSCode history
+.history/
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Vite
+dist/
+
+# Logs
+*.log
