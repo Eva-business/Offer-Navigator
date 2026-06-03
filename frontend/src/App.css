@@ -1,3 +1,5 @@
+/*App.css in frontend in src*/
+
 body {
   margin: 0;
   font-family: Arial, "Microsoft JhengHei", sans-serif;
@@ -146,4 +148,16 @@ li {
   button {
     width: 100%;
   }
+}
+
+.error {
+  color: #dc2626;
+  font-size: 14px;
+  font-weight: 600;
+  margin-top: 4px;
+  margin-bottom: 10px;
+}
+
+.input-error {
+  border: 2px solid red;
 }
